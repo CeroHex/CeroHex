@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, Claudio Lenin</h1>
 <h3 align="center">Full Stack Developer | Python | React | Java | IA | Microservices</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 ---
 
 ## 🚀 Sobre mí
@@ -20,7 +16,11 @@
 - 📊 Data Engineering
 - 📱 Kotlin
 - 🌎 Ecuador
-<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" /><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ---
 
 # 🌐 Redes
