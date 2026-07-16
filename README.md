@@ -20,7 +20,7 @@
 - 📊 Data Engineering
 - 📱 Kotlin
 - 🌎 Ecuador
-
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />
 ---
 
 # 🌐 Redes
