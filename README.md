@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Tu Nombre</h1>
+<h1 align="center">Hola 👋, Claudio Lenin</h1>
 <h3 align="center">Full Stack Developer | Python | React | Java | IA | Microservices</h3>
 
 <p align="center">
@@ -26,9 +26,9 @@
 # 🌐 Redes
 
 <p align="center">
-<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/TU_USUARIO"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://linkedin.com/in/claudio-lenin-057238109"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/CeroHex"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="claudiolennin8@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
@@ -43,8 +43,9 @@
 <img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://skillicons.dev/icons?i=javascript"/>
 <img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=kotlin"/>
+<img src="https://skillicons.dev/icons?i=csharp"/>
 <img src="https://skillicons.dev/icons?i=php"/>
+<img src="https://skillicons.dev/icons?i=kotlin"/>
 
 </p>
 
@@ -129,114 +130,6 @@
 <img src="https://skillicons.dev/icons?i=idea"/>
 <img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
----
-
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Lenguajes
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Trofeos
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 📅 Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# ☕ Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 😂 Meme
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Visitantes
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitors&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚡ Contribuciones
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=tokyonight&utcOffset=-5"/>
 
 </p>
 
