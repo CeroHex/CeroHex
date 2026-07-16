@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Claudio Lenin</h1>
 <h3 align="center">Full Stack Developer | Python | React | Java | IA | Microservices</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+Developer;React+Developer;Java+Spring+Boot;AI+Engineer;Microservices+Architecture;Open+Source+Enthusiast" />
-</p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ---
 
