@@ -101,15 +101,11 @@ Full Stack Developer • Python • Java • React • AI • Microservices
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CeroHex&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CeroHex&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeroHex&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CeroHex&theme=tokyonight&utcOffset=-5"/>
 
