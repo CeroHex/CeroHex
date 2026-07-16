@@ -123,14 +123,6 @@ Full Stack Developer • Python • Java • React • AI • Microservices
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CeroHex&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # 📫 Contacta conmigo
 
 <p align="center">
@@ -153,12 +145,6 @@ Full Stack Developer • Python • Java • React • AI • Microservices
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/CeroHex/CeroHex/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
